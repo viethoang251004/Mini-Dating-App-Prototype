@@ -24,3 +24,7 @@ eslint.config.js
 *.njsproj
 *.sln
 *.sw?
+
+
+.vercel
+.env
